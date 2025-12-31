@@ -89,7 +89,9 @@ const ShayariData = [
  `Chaand sitare phool parinde
   Shaam sawera ek taraf,
   Saari duniya uska charba
-  Uska chahra ek taraf.. :)`
+  Uska chahra ek taraf,
+  Vo lad kar so bhi jaye to uska maatha chumu me
+  Usse mohobbat ek taraf h usse jhagda ek taraf.. :)`
 ];
 
 const ShayariPage = () => {
