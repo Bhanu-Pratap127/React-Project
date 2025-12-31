@@ -14,15 +14,15 @@ const ShayariData = [
    Khushboo wahi tak hai jaha tak tum ho... :)`,
 
 
-   `Tum jo chhu lo usme jivan bhare Phool khushbu ko teri ye kabse khade,
-   Maasumiyat bhi karti hai rasq aap pr Aaina bhi hai dekho fidaa aap pr,
-   Khubsrati to deti misale teri Hyaa dekh kese nazre utare teri,
-   Khil uthe duaa jo tujhe maang lu Itni pyari hai sundar hai masoom tu,
-   Chaand raate jage tere didar ko Taare aanhe bhare tere didar ko,
-   koyle'n bhi tu chahti hai sunna tujhe Khil uthe phool sare tu jb jb hase,
+   `Tum jo chhu lo usme jivan bhare. Phool khushbu ko teri ye kabse khade,
+   Maasumiyat bhi karti hai rasq aap pr. Aaina bhi hai dekho fidaa aap pr,
+   Khubsrati to deti misale teri. Hyaa dekh kese nazre utare teri,
+   Khil uthe duaa jo tujhe maang lu. Itni pyari hai sundar hai masoom tu,
+   Chaand raate jage tere didar ko. Taare aanhe bhare tere didar ko,
+   koyle'n bhi tu chahti hai sunna tujhe. Khil uthe phool sare tu jb jb hase,
    Jaha'n nazrein kre vha'n barish pade,
-   Titliya tere haatho ki kathputliyaa Mor nache bjaye tu jsab taliyaa,
-   Kisi devi ki maano murat hai tu Khubsurati ki pehli surat hai tu... :)`
+   Titliya tere haatho ki kathputliyaa. Mor nache bjaye tu jsab taliyaa,
+   Kisi devi ki maano murat hai tu. Khubsurati ki pehli surat hai tu... :)`
 ];
 
 const ShayariPage = () => {
