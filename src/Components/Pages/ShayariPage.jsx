@@ -5,13 +5,13 @@ const ShayariData = [
   `Teri aankho ke saamne ye shehar kon dekhega,
    Tu dariya si h ye lahar kon dekhega,
    Tu khubsurat se bhi jyada khubsurat h,
-   Tujhe dekhne ke baad ye tajmahal kon dekhega... :)`,
+   Tujhe dekhne ke baad ye tajmahal kon dekhega.. :)`,
   
   
    `Safar wahi tak jaha tak tum ho,
    Nazar wahi tak jaha tak tum ho,
    Hazaaro phool dekhe hain is gulshan me magar,
-   Khushboo wahi tak hai jaha tak tum ho... :)`,
+   Khushboo wahi tak hai jaha tak tum ho.. :)`,
 
 
    `Tum jo chhu lo usme jivan bhare. Phool khushbu ko teri ye kabse khade,
@@ -22,7 +22,41 @@ const ShayariData = [
    koyle'n bhi tu chahti hai sunna tujhe. Khil uthe phool sare tu jb jb hase,
    Jaha'n nazrein kre vha'n barish pade,
    Titliya tere haatho ki kathputliyaa. Mor nache bjaye tu jsab taliyaa,
-   Kisi devi ki maano murat hai tu. Khubsurati ki pehli surat hai tu... :)`
+   Kisi devi ki maano murat hai tu. Khubsurati ki pehli surat hai tu.. :)`,
+
+
+   `Teri aankhe jese mausam h,
+   Kudrat sa tera chehra h,
+   Laakh dilo se ho krke ye dil tujhpe hi thehra h,
+   Jb tu dekhkr mujhko dheere se muskura deti h,
+   Meri nazre teri nazron ko haule se smjha deti h,
+   Smjh na pata h ye dil ye to andha or behra h,
+   Teri aankhe jese mausam kudrat sa tera chehra h.. :) `,
+
+   
+   `Are vo chand bhi tumhare saamne sada lge,
+   72 hoorein fiki tumhara noor zyada lage,
+   Aur mat pucha karo ki kesi lgti ho tum hame,
+   Meri jaan tum to esi lgti ho jese swayam Kanha ko Radha lge.. :)`,
+
+   
+   `Phli baar jo tujhse ki thi vo baat yaad h,
+   Teri yaad me guzari vo raat yaad h..
+   
+   Yaad h mujhe teri vo jheel si aankhe,
+   Fool se bhi khubsurat tere vo haath yaad h..
+   
+   Yaad h mujhe vo tera baat karte karte so jana,
+   Dur hote hue bhi ek dusre me kho jana..
+   
+   Yaad h mujhe aaj bhi vo sb tere nakhre,
+   Mujhse baat na ho to tera khana na khana..
+   
+   Kaise kiya tha mene tujhse izhaar yaad h,
+   Har pal kiya jo tera vo intezaar yaad h..
+   
+   Ha me tujhe bhul gya hu shayad, Magar
+   Mujhe aaj bhi hamara vo pyaar yaad h.. :)`
 ];
 
 const ShayariPage = () => {
