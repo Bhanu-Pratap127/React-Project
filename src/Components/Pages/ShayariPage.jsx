@@ -2,41 +2,63 @@ import React, { useState, useEffect } from 'react';
 import { useParams, useNavigate, Navigate } from 'react-router-dom';
 
 const ShayariData = [
-  `Teri aankho ke saamne ye shehar kon dekhega,
+  `Teri aankho ke saamne ye shehar kon dekhega
    Tu dariya si h ye lahar kon dekhega,
-   Tu khubsurat se bhi jyada khubsurat h,
+
+   Tu khubsurat se bhi jyada khubsurat h
    Tujhe dekhne ke baad ye tajmahal kon dekhega.. :)`,
   
   
-  `Safar wahi tak jaha tak tum ho,
+  `Safar wahi tak jaha tak tum ho
    Nazar wahi tak jaha tak tum ho,
-   Hazaaro phool dekhe hain is gulshan me magar,
+
+   Hazaaro phool dekhe hain is gulshan me magar
    Khushboo wahi tak hai jaha tak tum ho.. :)`,
 
 
-  `Tum jo chhu lo usme jivan bhare. Phool khushbu ko teri ye kabse khade,
-   Maasumiyat bhi karti hai rasq aap pr. Aaina bhi hai dekho fidaa aap pr,
-   Khubsrati to deti misale teri. Hyaa dekh kese nazre utare teri,
-   Khil uthe duaa jo tujhe maang lu. Itni pyari hai sundar hai masoom tu,
-   Chaand raate jage tere didar ko. Taare aanhe bhare tere didar ko,
-   koyle'n bhi tu chahti hai sunna tujhe. Khil uthe phool sare tu jb jb hase,
+  `Tum jo chhu lo usme jivan bhare
+   Phool khushbu ko teri ye kabse khade,
+
+   Maasumiyat bhi karti hai rasq aap pr
+   Aaina bhi hai dekho fidaa aap pr,
+
+   Khubsrati to deti misale teri
+   Hyaa dekh kese nazre utare teri,
+
+   Khil uthe duaa jo tujhe maang lu
+   Itni pyari hai sundar hai masoom tu,
+
+   Chaand raate jage tere didar ko
+   Taare aanhe bhare tere didar ko,
+
+   koyle'n bhi to chahti hai sunna tujhe
+   Khil uthe phool sare tu jb jb hase,
+
    Jaha'n nazrein kre vha'n barish pade,
-   Titliya tere haatho ki kathputliyaa. Mor nache bjaye tu jsab taliyaa,
-   Kisi devi ki maano murat hai tu. Khubsurati ki pehli surat hai tu.. :)`,
+
+   Titliya tere haatho ki kathputliyaa
+   Mor nache bjaye tu jsab taliyaa,
+
+   Kisi devi ki maano murat hai tu
+   Khubsurati ki pehli surat hai tu.. :)`,
 
 
-  `Teri aankhe jese mausam h,
+  `Teri aankhe jese mausam h
    Kudrat sa tera chehra h,
+
    Laakh dilo se ho krke ye dil tujhpe hi thehra h,
-   Jb tu dekhkr mujhko dheere se muskura deti h,
+
+   Jb tu dekhkr mujhko dheere se muskura deti h
    Meri nazre teri nazron ko haule se smjha deti h,
+
    Smjh na pata h ye dil ye to andha or behra h,
    Teri aankhe jese mausam kudrat sa tera chehra h.. :) `,
 
    
-  `Are vo chand bhi tumhare saamne sada lge,
+  `Are vo chand bhi tumhare saamne sada lge
    72 hoorein fiki tumhara noor zyada lage,
-   Aur mat pucha karo ki kesi lgti ho tum hame,
+
+   Aur mat pucha karo ki kesi lgti ho tum hame
    Meri jaan tum to esi lgti ho jese swayam Kanha ko Radha lge.. :)`,
 
    
@@ -61,35 +83,44 @@ const ShayariData = [
 
   `Log bachte h samandar se lekin
    Hum tumhari aankon me dubne ko tyaar h,
+
    kisko dekhne ki chahat kre
    Tukmo dekh liya h to,
+
    Tumhari zulfon ki gehrai h bohot or
    Hmko pasand nahi aata h kinara,
+
    Log kehte h chaand ka tukda ho tum
    Hum kehte h chaand bhi tukda h tumhara.. :)`,
 
 
   `Mana ke tere dil me koi or makii h
    Tu fir bhi mera dil h akiida h yakii h,
+
    Ye aaine tujhe teri khabar de na sakenge
    Aa dekh meri aankho se tu kitna hasee h.. :)`,
 
 
  `Mujhe khwahish h teri aankho me kajal lagane ki
   Mujhe khwahish h tere pairo pr payal sajane ki,
+
   Tere haatho me kangan pehnane ki
   Tere maathe pr bindi lgane ki
   Tujhe sara shringaar kra kr aaina dikhane ki,
+
   Khubsurat to tu beintehaa h
   Mujhe bss khwahish h teri khubsurati badhane ki,
+
   Mohobbat karta hu thodi purani
   Is Genz jamane khwahish h tujhe apna saathi bnane ki.. :)`,
 
 
  `Chaand sitare phool parinde
   Shaam sawera ek taraf,
+
   Saari duniya uska charba
   Uska chahra ek taraf,
+
   Vo lad kar so bhi jaye to uska maatha chumu me
   Usse mohobbat ek taraf h usse jhagda ek taraf.. :)`
 ];
