@@ -36,7 +36,7 @@ const ShayariData = [
    Jaha'n nazrein kre vha'n barish pade,
 
    Titliya tere haatho ki kathputliyaa
-   Mor nache bjaye tu jsab taliyaa,
+   Mor nache bjaye tu jab taliyaa,
 
    Kisi devi ki maano murat hai tu
    Khubsurati ki pehli surat hai tu.. :)`,
@@ -124,43 +124,43 @@ const ShayariData = [
   Usse mohobbat ek taraf h usse jhagda ek taraf.. :)`,
 
 
- `Hey!
+//  `Hey!
 
-  Ummeed h tum apni zindagi me khush hogi or me bhi yahi chahta hu ki tum khush hi raho
-  Pr ab shayad tume mere bare me sochti ho ya na sochti pr me tumhe jb bhi yaad krta hu
-  To mera dil bohot khsuh ho jata h or meri isi khushi ki vajah se me tumhe kabhi yaad karna nhi chhod pata hu
-  Kya kru ye mano kehta rhta ho ki mat bhool use
-  Fir me tumhe jb bhi yaad karta hu tu mujhe vo sab yaad aa jata h to hamne time spend kiya tha
-  Tumhare saath ghumne jana mana ki hum jyada ghume nhi h saath me but mere liye utha hi kaafi bada moment tha
-  Tumhara vo call krna. Tumhara mujhe block kr dena fir mera naraz ho jana
-  Sach batau to tum jb jb mujhe block karti thi to mujhe lgta tha ki ab to mera chapter close h tumhari life se
-  But fir tum mujhe unblock krke msg krti thi to mujhe saans me saans aati thi or gussa bhi aata tha mujhe tum pr
-  But fir tumse baat krke me bhul jata tha ki me tumse gussa bhi hu 😅
-  Or sabse jyada pasand to mujhe tumhari aawaz lagti thi lagti h or lagti rhegi
-  Kyuki tumhari aawaz mere kaano me jese mithaas ghol deti thi
-  Isiliye mene tumhari call recording tak save kri hui thi taaki tumhari aawaz sun sku me
-  Pr uss din mene tumhari photos ke saath sb kuch delete kr diya
-  Kyuki tumne iss tarah se kaha hi tha ki me nahi chahti ki meri photos kisi ke phone me rahe
-  Fir mene tumhari saari nishaani mita di Tumhari photos Hamari photos, videos, call recordings
-  Or jb jb tumne mujhe snapchat pe add friend kiya tha vo bhi save kr rkha tha mene G-mail me vo bhi sb delete kr diya
-  Tumhari uss ek baat ki vjh se
+//   Ummeed h tum apni zindagi me khush hogi or me bhi yahi chahta hu ki tum khush hi raho
+//   Pr ab shayad tume mere bare me sochti ho ya na sochti pr me tumhe jb bhi yaad krta hu
+//   To mera dil bohot khsuh ho jata h or meri isi khushi ki vajah se me tumhe kabhi yaad karna nhi chhod pata hu
+//   Kya kru ye mano kehta rhta ho ki mat bhool use
+//   Fir me tumhe jb bhi yaad karta hu tu mujhe vo sab yaad aa jata h to hamne time spend kiya tha
+//   Tumhare saath ghumne jana mana ki hum jyada ghume nhi h saath me but mere liye utha hi kaafi bada moment tha
+//   Tumhara vo call krna. Tumhara mujhe block kr dena fir mera naraz ho jana
+//   Sach batau to tum jb jb mujhe block karti thi to mujhe lgta tha ki ab to mera chapter close h tumhari life se
+//   But fir tum mujhe unblock krke msg krti thi to mujhe saans me saans aati thi or gussa bhi aata tha mujhe tum pr
+//   But fir tumse baat krke me bhul jata tha ki me tumse gussa bhi hu 😅
+//   Or sabse jyada pasand to mujhe tumhari aawaz lagti thi lagti h or lagti rhegi
+//   Kyuki tumhari aawaz mere kaano me jese mithaas ghol deti thi
+//   Isiliye mene tumhari call recording tak save kri hui thi taaki tumhari aawaz sun sku me
+//   Pr uss din mene tumhari photos ke saath sb kuch delete kr diya
+//   Kyuki tumne iss tarah se kaha hi tha ki me nahi chahti ki meri photos kisi ke phone me rahe
+//   Fir mene tumhari saari nishaani mita di Tumhari photos Hamari photos, videos, call recordings
+//   Or jb jb tumne mujhe snapchat pe add friend kiya tha vo bhi save kr rkha tha mene G-mail me vo bhi sb delete kr diya
+//   Tumhari uss ek baat ki vjh se
   
-  Pr kher chhodo ye sb baate me tumhari burai nhi kr rha hu 😅
+//   Pr kher chhodo ye sb baate me tumhari burai nhi kr rha hu 😅
   
-  Me to bss itna kehna chahta tha ki me tumhe dost ki nazar se nhi dekh skta hu me kitni bhi kosis kr lu
-  Uss din to mene pta nhi kese keh diya tha ki jo bhanu tumse pyaar krta tha vo ab mar chuka h
-  Pr fir mujhe realise hua ki shayad me uss time jhuth bol rha tha
+//   Me to bss itna kehna chahta tha ki me tumhe dost ki nazar se nhi dekh skta hu me kitni bhi kosis kr lu
+//   Uss din to mene pta nhi kese keh diya tha ki jo bhanu tumse pyaar krta tha vo ab mar chuka h
+//   Pr fir mujhe realise hua ki shayad me uss time jhuth bol rha tha
   
-  So I can't stop loving you 
-  Ye mujhse nhi ho payega ki me tumse pyaar na kru
+//   So I can't stop loving you 
+//   Ye mujhse nhi ho payega ki me tumse pyaar na kru
   
-  Likhne ko to bohot kuch h mere paas but I think itna hi kaafi rhega
-  Tum bhi shayad bore ho rhi hogi
+//   Likhne ko to bohot kuch h mere paas but I think itna hi kaafi rhega
+//   Tum bhi shayad bore ho rhi hogi
   
   
-  So I think you like it
+//   So I think you like it
   
-  And Wish you a Very Happy New Year  Meri Pyari dukkar`
+//   And Wish you a Very Happy New Year  Meri Pyari dukkar`
 ];
 
 const ShayariPage = () => {
