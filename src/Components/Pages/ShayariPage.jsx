@@ -135,7 +135,7 @@ const ShayariData = [
   Jee bhhar kar tujhe kabhi dekh nahi pata.. :)`,
 
 
-  
+
   // `Tum jo chhu lo usme jivan bhare
   //  Phool khushbu ko teri ye kabse khade,
 
@@ -352,7 +352,7 @@ const ShayariPage = () => {
                  flex flex-col justify-start
                  overflow-hidden
                  hover:scale-105 transition-transform duration-500">
-       <p className="text-xl md:text-2xl text-pink-800 italic leading-relaxed text-left whitespace-pre-line tracking-wide">
+       <p className="text-xl md:text-2xl text-pink-800 italic leading-relaxed text-center whitespace-pre-line tracking-wide">
            {displayedText}
            {!typingDone && <span className="animate-pulse text-pink-500">|</span>}
         </p>
