@@ -354,7 +354,7 @@ const ShayariPage = () => {
                  hover:scale-105 transition-transform duration-500">
        <p className="text-xl md:text-2xl text-pink-800 italic leading-relaxed text-center whitespace-pre-line tracking-wide">
            {displayedText}
-           {!typingDone && <span className="animate-pulse text-pink-500">|</span>}
+           {/* {!typingDone && <span className="animate-pulse text-pink-500">|</span>} */}
         </p>
 
           {typingDone && (
