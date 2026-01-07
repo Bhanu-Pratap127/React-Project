@@ -126,7 +126,7 @@ const ShayariData = [
   Jee bhar kar tujhe dekh nahi pata,
   
   Tujhe na dekhu to rehta hu bechain
-  Tu dikh jaye to tere paas aane se khud ko rok nahi pata,
+  Tu dikh jaye to paas aane se khud ko rok nahi pata,
   
   Me chahta hu padhna teri aankho ko
   Par unhe dekh ke me kuch soch nahi pata,
