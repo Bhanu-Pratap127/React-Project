@@ -44,7 +44,7 @@ const ShayariData = [
  `Tujhe yaad na karu to aur kya karu
   Teri baat na karu to aur kya karu,
   
-  Kya karu ki mujhr mil jaye tu
+  Kya karu ki mujhe mil jaye tu
   Ibadat karu ? Dua karu ? Kya karu ?,
   
   Kya karu ki bas tere saath jeena tha
@@ -116,7 +116,7 @@ const ShayariData = [
   Chahe to uss chaand se puch le
   Tujhe taaro me dhundta raha raat bhar,
   
-  Saanso ki tarah tujhe bharta raha raat apne andar
+  Saanso ki tarah tujhe bharta raha apne andar
   Aur meri saans mujhse juda rahi raat bhar.. :)`,
 
   
@@ -204,7 +204,7 @@ const ShayariData = [
 
 
   
-  // `Log bachte h samandar se lekin
+  // `Log bashte h samandar se lekin
   //  Hum tumhari aankon me dubne ko tyaar h,
 
   //  kisko dekhne ki chahat kre
@@ -236,6 +236,7 @@ const ShayariData = [
 
 //   Mohobbat karta hu thodi purani
 //   Is Genz jamane khwahish h tujhe apna saathi bnane ki.. :)`,
+
 
 
 //  `Chaand sitare phool parinde
