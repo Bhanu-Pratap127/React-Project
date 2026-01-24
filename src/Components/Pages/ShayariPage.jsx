@@ -255,7 +255,7 @@ const ShayariData = [
   Chaara-Saaji ek taraf hai Uska chhuna ek taraf,
 
   Us ne saari duniya maangi Mene usko maanga hai
-  Uske sapne ek taraf hai Mera sapna ek taraf..:)`
+  Uske sapne ek taraf hai Mera sapna ek taraf.. :)`
 
 
 //  `Hey!
