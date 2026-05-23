@@ -117,264 +117,264 @@ const ShayariData = [
 
 
 
-//   `Teri Aankho Ke Saamne Ye Shehar Kon Dekhega
-//    Tu Dariya Si Hai Ye Lahar Kon Dekhega,
+  `Teri Aankho Ke Saamne Ye Shehar Kon Dekhega
+   Tu Dariya Si Hai Ye Lahar Kon Dekhega,
 
-//    Tu Khubsurat Se Bhi Jyada Khubsurat Hai
-//    Tujhe Dekhne Ke Baad Ye Tajmahal Kon Dekhega.. :)`,
+   Tu Khubsurat Se Bhi Jyada Khubsurat Hai
+   Tujhe Dekhne Ke Baad Ye Tajmahal Kon Dekhega.. :)`,
   
   
   
-//   `Kar Sake Jo Muqabala Teri Saadgi Ka
-//    Chaand Me Wo Husn-O-Jamaal Kahan,
+  `Kar Sake Jo Muqabala Teri Saadgi Ka
+   Chaand Me Wo Husn-O-Jamaal Kahan,
    
-//    Har Phool Ki Qismat Itni Achi Nahi
-//    Har Phool Ki Qismat Me tere Baal Kahan.. :)`,
+   Har Phool Ki Qismat Itni Achi Nahi
+   Har Phool Ki Qismat Me tere Baal Kahan.. :)`,
 
 
   
-//   `Safar Wahi Tak Jaha Tak Tum Ho
-//    Nazar Vahi Tak Jaha Tak Tum Ho,
+  `Safar Wahi Tak Jaha Tak Tum Ho
+   Nazar Vahi Tak Jaha Tak Tum Ho,
 
-//    Hazaaro Phool Dekhe Hain Is Gulshan Me Magar
-//    Khushboo Wahi Tak Hai Jaha Tak Tum Ho.. :)`,
+   Hazaaro Phool Dekhe Hain Is Gulshan Me Magar
+   Khushboo Wahi Tak Hai Jaha Tak Tum Ho.. :)`,
 
 
   
-//   `Mere Liye Zindagi Ka Matlab Tum Ho
-//    Meri Har Hasrat Ka Matlab Tum Ho,
+  `Mere Liye Zindagi Ka Matlab Tum Ho
+   Meri Har Hasrat Ka Matlab Tum Ho,
    
-//    Mujhe Maloom Nahi Mohobbat ka Matlab
-//    Mere Liye Mohobbat Ka Matlab Tum Ho,
+   Mujhe Maloom Nahi Mohobbat ka Matlab
+   Mere Liye Mohobbat Ka Matlab Tum Ho,
    
-//    Khubsurati Ka Matlab Hota Hai Chaand
-//    Mere Liye Chaand Ka Matlab Tum Ho,
+   Khubsurati Ka Matlab Hota Hai Chaand
+   Mere Liye Chaand Ka Matlab Tum Ho,
    
-//    Mere Liye Nashe Ka Matlab Hai Teri Aankhe
-//    Mere Liye Sharaab Ka Matlab Tum Ho.. :)`,
+   Mere Liye Nashe Ka Matlab Hai Teri Aankhe
+   Mere Liye Sharaab Ka Matlab Tum Ho.. :)`,
 
 
 
 
-//  `Tujhe Yaad Na Karu To Aur Kya Karu
-//   Teri Baat Na Karu To Aur Kya Karu,
+ `Tujhe Yaad Na Karu To Aur Kya Karu
+  Teri Baat Na Karu To Aur Kya Karu,
   
-//   Kya Karu Ki Mujhe Mil Jaye Tu
-//   Ibadat Karu ? Dua Karu ? Kya Karu ?,
+  Kya Karu Ki Mujhe Mil Jaye Tu
+  Ibadat Karu ? Dua Karu ? Kya Karu ?,
   
-//   Kya Karu Ki Bas Tere Saath Jeena Tha
-//   Ab Tere Bagair Na Maru To Kya Aur Karu,
+  Kya Karu Ki Bas Tere Saath Jeena Tha
+  Ab Tere Bagair Na Maru To Kya Aur Karu,
   
-//   KyaKkaru Ki Tu Bhi Kab Sunta Hai Meri
-//   Tujhse Shikayat Na Karu To Aur Kya Karu,
+  KyaKkaru Ki Tu Bhi Kab Sunta Hai Meri
+  Tujhse Shikayat Na Karu To Aur Kya Karu,
   
-//   Kya Karu Ki Tu Bhi Itna Pyaara Hai
-//   Tujhse Mohobbat Na Karu To Aur Kya Karu.. :)`, 
+  Kya Karu Ki Tu Bhi Itna Pyaara Hai
+  Tujhse Mohobbat Na Karu To Aur Kya Karu.. :)`, 
 
 
  
-//  `Agar Tum Baarish Ho
-//   To Me Bheegna Chahoon,
+ `Agar Tum Baarish Ho
+  To Me Bheegna Chahoon,
   
-//   Agar Tum Dhoop Ho
-//   To Me Jalna Chahoon,
+  Agar Tum Dhoop Ho
+  To Me Jalna Chahoon,
   
-//   Agar Tum Samandar Ho
-//   To Me Doobna Chahoon,
+  Agar Tum Samandar Ho
+  To Me Doobna Chahoon,
   
-//   Agar Tum Zindagi Ho
-//   To Me Jeena Chahoon,
+  Agar Tum Zindagi Ho
+  To Me Jeena Chahoon,
   
-//   Agar Tum Zeher Ho
-//   To Me Peena Chahoon,
+  Agar Tum Zeher Ho
+  To Me Peena Chahoon,
   
-//   Agar Tum Maut Ho
-//   To Me Marna Chahoon.. :)`,
+  Agar Tum Maut Ho
+  To Me Marna Chahoon.. :)`,
 
 
 
-//  `Tum Wo Chaand Ho Jispar Koi Daag Nahi
-//   Tum Itni Khubsurat Ho Jiska Koi Hisab Nahi,
+ `Tum Wo Chaand Ho Jispar Koi Daag Nahi
+  Tum Itni Khubsurat Ho Jiska Koi Hisab Nahi,
   
-//   Tum Wo Nadi Ho Jo Apni Marzi Se Behti Hai
-//   Tum Wo Baag Ho Jisme Titliya Rehti Hai,
+  Tum Wo Nadi Ho Jo Apni Marzi Se Behti Hai
+  Tum Wo Baag Ho Jisme Titliya Rehti Hai,
   
-//   Tum Wo Phool Ho Jo Kabhi Murjhata Nahi
-//   Tum Wo Rang Ho Jo Kabhi Utarta Nahi,
+  Tum Wo Phool Ho Jo Kabhi Murjhata Nahi
+  Tum Wo Rang Ho Jo Kabhi Utarta Nahi,
   
-//   Tum Wo Nadi Ho Jisme Chaand Nahata Hai
-//   Tum Wo Ho Jisse Chaand Bhi Sharmata Hai,
+  Tum Wo Nadi Ho Jisme Chaand Nahata Hai
+  Tum Wo Ho Jisse Chaand Bhi Sharmata Hai,
   
-//   Tum Wo Suraj Ho Jo Thandak Pohnchata Hai
-//   Tum Wo Raasta Ho Jo Jannat Tak Jata Hai.. :)`,
+  Tum Wo Suraj Ho Jo Thandak Pohnchata Hai
+  Tum Wo Raasta Ho Jo Jannat Tak Jata Hai.. :)`,
 
 
 
-//  `Tujhe Me Sochta Raha Raat Bhar
-//   Apni Aankho Ko Nochta Raat Bhar,
+ `Tujhe Me Sochta Raha Raat Bhar
+  Apni Aankho Ko Nochta Raat Bhar,
   
-//   Me Raat Ko Teri Tasvir Dekhta Raha
-//   Teri Tasvir Mujhe Dekhti Rahi Raat Bhar,
+  Me Raat Ko Teri Tasvir Dekhta Raha
+  Teri Tasvir Mujhe Dekhti Rahi Raat Bhar,
   
-//   Tere Milne Ka Mujhe Nahi Pata Lekin
-//   Tujhe Khuda Se Maangta Raha Raat Bhar,
+  Tere Milne Ka Mujhe Nahi Pata Lekin
+  Tujhe Khuda Se Maangta Raha Raat Bhar,
   
-//   Tu So Gaya Apni Duniya Me Kho Gaya
-//   Me Tere Liye Jaagta Raha Raat Bhar,
+  Tu So Gaya Apni Duniya Me Kho Gaya
+  Me Tere Liye Jaagta Raha Raat Bhar,
   
-//   Andhere Me Bhi Roshan Tha Kamra Mera
-//   Tere Liye Ye Dil Jalta Raha Raat Bhar,
+  Andhere Me Bhi Roshan Tha Kamra Mera
+  Tere Liye Ye Dil Jalta Raha Raat Bhar,
   
-//   Tujhe Shayad Pata Na Ho Magar Sach Hai
-//   Teri Yaad Se Me Baat Karta Raha Raat Bhar,
+  Tujhe Shayad Pata Na Ho Magar Sach Hai
+  Teri Yaad Se Me Baat Karta Raha Raat Bhar,
   
-//   Chahe To Uss Chaand Se Puch Le
-//   Tujhe Taaro Me Dhundta Raha Raat Bhar,
+  Chahe To Uss Chaand Se Puch Le
+  Tujhe Taaro Me Dhundta Raha Raat Bhar,
   
-//   Saanso Ki Tarah Tujhe Bharta Raha Apne Andar
-//   Aur Meri Saans Mujhse Juda Rahi Raat Bhar.. :)`,
+  Saanso Ki Tarah Tujhe Bharta Raha Apne Andar
+  Aur Meri Saans Mujhse Juda Rahi Raat Bhar.. :)`,
 
   
  
 
-//  `Teri Aankho Me Dekhu To Kahi Kho Jata Hu
-//   Jee Bhar Kar Tujhe Dekh Nahi Pata,
+ `Teri Aankho Me Dekhu To Kahi Kho Jata Hu
+  Jee Bhar Kar Tujhe Dekh Nahi Pata,
   
-//   Tujhe Na Dekhu To Rehta Hu Bechain
-//   Tu Dikh Jaye To Paas Aane Se Khud Ko Rok Nahi Pata,
+  Tujhe Na Dekhu To Rehta Hu Bechain
+  Tu Dikh Jaye To Paas Aane Se Khud Ko Rok Nahi Pata,
   
-//   Me Chahta Hu Padhna Teri Aankho Ko
-//   Par Unhe Dekh Ke Me Kuch Soch Nahi Pata,
+  Me Chahta Hu Padhna Teri Aankho Ko
+  Par Unhe Dekh Ke Me Kuch Soch Nahi Pata,
   
-//   Teri Aankho Me Dekhu To Kahi Kho Jata Hu
-//   Jee Bhar Kar Tujhe Kabhi Dekh Nahi Pata.. :)`,
+  Teri Aankho Me Dekhu To Kahi Kho Jata Hu
+  Jee Bhar Kar Tujhe Kabhi Dekh Nahi Pata.. :)`,
 
 
 
-//   `Tum Jo Chhu Lo Usme Jivan Bhare
-//    Phool Khushbu Ko Teri Ye Kabse Khade,
+  `Tum Jo Chhu Lo Usme Jivan Bhare
+   Phool Khushbu Ko Teri Ye Kabse Khade,
 
-//    Maasumiyat Bhi Karti Hai Rasq Aap Par
-//    Aaina Bhi Hai Dekho Fidaa Aap Par,
+   Maasumiyat Bhi Karti Hai Rasq Aap Par
+   Aaina Bhi Hai Dekho Fidaa Aap Par,
 
-//    Khubsrati To Deti Misale Teri
-//    Hyaa Dekh Kese Nazre Utare Teri,
+   Khubsrati To Deti Misale Teri
+   Hyaa Dekh Kese Nazre Utare Teri,
 
-//    Khil Uthe Duaa Jo Tujhe Maang Lu
-//    Itni Pyari Hai Sundar Hai Masoom Tu,
+   Khil Uthe Duaa Jo Tujhe Maang Lu
+   Itni Pyari Hai Sundar Hai Masoom Tu,
 
-//    Chaand Raate Jage Tere Didar Ko
-//    Taare Aanhe Bhare Tere Didar Ko,
+   Chaand Raate Jage Tere Didar Ko
+   Taare Aanhe Bhare Tere Didar Ko,
 
-//    koyle'n Bhi To Chahti Hai Sunna Tujhe
-//    Khil Uthe Phool Sare Tu Jb Jb Hase
-//    Jaha'n Nazrein re Vaha'n Barish Pade,
+   koyle'n Bhi To Chahti Hai Sunna Tujhe
+   Khil Uthe Phool Sare Tu Jb Jb Hase
+   Jaha'n Nazrein re Vaha'n Barish Pade,
 
-//    Titliya Tere Haatho Ki Kathputliyaa
-//    Mor Nache Bajaye Tu Jab Taliyaa,
+   Titliya Tere Haatho Ki Kathputliyaa
+   Mor Nache Bajaye Tu Jab Taliyaa,
 
-//    Kisi Devi Ki Maano Murat Hai Tu
-//    Khubsurati Ki Pehli Surat Hai Tu.. :)`,
+   Kisi Devi Ki Maano Murat Hai Tu
+   Khubsurati Ki Pehli Surat Hai Tu.. :)`,
 
 
   
-//   `Teri Aankhe Jese Mausam Hai
-//    Kudrat Sa Tera Chehra Hai,
+  `Teri Aankhe Jese Mausam Hai
+   Kudrat Sa Tera Chehra Hai,
 
-//    Laakh Dilo Se Ho Krke Ye Dil Tujhpe Hi Thehra Hai,
+   Laakh Dilo Se Ho Krke Ye Dil Tujhpe Hi Thehra Hai,
 
-//    Jb Tu Dekhkr Mujhko Dheere Se Muskura Deti Hai
-//    Meri Nazre Teri Nazron Ko Haule Se Smjha Deti Hai,
+   Jb Tu Dekhkr Mujhko Dheere Se Muskura Deti Hai
+   Meri Nazre Teri Nazron Ko Haule Se Smjha Deti Hai,
 
-//    Smjh Na Pata Hai Ye Dil Ye To Andha Or Behra Hai,
-//    Teri Aankhe Jese Mausam Kudrat Sa Tera Chehra Hai.. :) `,
+   Smjh Na Pata Hai Ye Dil Ye To Andha Or Behra Hai,
+   Teri Aankhe Jese Mausam Kudrat Sa Tera Chehra Hai.. :) `,
 
    
   
 
-//   `Are Vo Chand Bhi Tumhare Saamne Sada Lage
-//    72 Hoorein Feeki Tumhara Noor Zyada Lage,
+  `Are Vo Chand Bhi Tumhare Saamne Sada Lage
+   72 Hoorein Feeki Tumhara Noor Zyada Lage,
 
-//    Aur Mat Pucha Karo Ki Kesi Lagti Ho Tum Hame
-//    Meri Jaan Tum To Esi Lgti Ho Jese Swayam Kanha Ko Radha Lge.. :)`,
+   Aur Mat Pucha Karo Ki Kesi Lagti Ho Tum Hame
+   Meri Jaan Tum To Esi Lgti Ho Jese Swayam Kanha Ko Radha Lge.. :)`,
 
    
   
 
-//  `Pehli Baar Jo Tujhse Ki Thi Vo Baat Yaad Hai,
-//   Teri Yaad Me Guzari Vo Raat Yaad Hai..
+ `Pehli Baar Jo Tujhse Ki Thi Vo Baat Yaad Hai,
+  Teri Yaad Me Guzari Vo Raat Yaad Hai..
   
-//   Yaad Hai Mujhe Teri Vo Jheel Si Aankhe,
-//   Fool Se Bhi Khubsurat Tere Vo Haath Yaad Hai..
+  Yaad Hai Mujhe Teri Vo Jheel Si Aankhe,
+  Fool Se Bhi Khubsurat Tere Vo Haath Yaad Hai..
   
-//   Yaad Hai Mujhe Vo Tera Baat Karte Karte So Jana,
-//   Dur Hote Hue Bhi Ek Dusre Me Kho Jana..
+  Yaad Hai Mujhe Vo Tera Baat Karte Karte So Jana,
+  Dur Hote Hue Bhi Ek Dusre Me Kho Jana..
   
-//   Yaad Hai Mujhe Aaj Bhi Vo Sb Tere Nakhre,
-//   Mujhse Baat Na Ho To Tera Khana Na Khana..
+  Yaad Hai Mujhe Aaj Bhi Vo Sb Tere Nakhre,
+  Mujhse Baat Na Ho To Tera Khana Na Khana..
   
-//   Kaise Kiya Tha Mene Tujhse Izhaar Yaad Hai,
-//   Har Pal Kiya Jo Tera Vo Intezaar Yaad Hai..
+  Kaise Kiya Tha Mene Tujhse Izhaar Yaad Hai,
+  Har Pal Kiya Jo Tera Vo Intezaar Yaad Hai..
   
-//   Ha Me Tujhe Bhul Gya Hu Shayad, Magar
-//   Mujhe Aaj Bhi Hamara Vo Pyaar Yaad Hai.. :)`,
+  Ha Me Tujhe Bhul Gya Hu Shayad, Magar
+  Mujhe Aaj Bhi Hamara Vo Pyaar Yaad Hai.. :)`,
 
 
   
-//  `Log Bashte Hai Samandar Se Lekin
-//   Hum Tumhari Aankon Me Dubne Ko Tyaar Hai,
+ `Log Bashte Hai Samandar Se Lekin
+  Hum Tumhari Aankon Me Dubne Ko Tyaar Hai,
 
-//   kisko Dekhne Ki Chahat Kre
-//   Tukmo Dekh Liya Hai To,
+  kisko Dekhne Ki Chahat Kre
+  Tukmo Dekh Liya Hai To,
 
-//   Tumhari Zulfon Ki Gehrai Hai Bohot Or
-//   Hmko Pasand Nahi Aata Hai Kinara,
+  Tumhari Zulfon Ki Gehrai Hai Bohot Or
+  Hmko Pasand Nahi Aata Hai Kinara,
 
-//   Log Kehte Hai Chaand Ka Tukda Ho Tum
-//   Hum Kehte Hai Chaand Bhi Tukda Hai Tumhara.. :)`,
+  Log Kehte Hai Chaand Ka Tukda Ho Tum
+  Hum Kehte Hai Chaand Bhi Tukda Hai Tumhara.. :)`,
 
 
 
-//  `Mana Ke Tere Dil Me Koi Or Makii Hai
-//   Tu Fir Bhi Mera Dil Hai, Akiida Hai, Yakii Hai,
+ `Mana Ke Tere Dil Me Koi Or Makii Hai
+  Tu Fir Bhi Mera Dil Hai, Akiida Hai, Yakii Hai,
  
-//   Ye Aaine Tujhe Teri Khabar De Na Sakenge
-//   Aa Dekh Meri Aankho Se Tu Kitna Hasee Hai.. :)`,
+  Ye Aaine Tujhe Teri Khabar De Na Sakenge
+  Aa Dekh Meri Aankho Se Tu Kitna Hasee Hai.. :)`,
 
 
 
-//  `Mujhe Khwahish Hai Teri Aankho Me Kajal Lagane Ki
-//   Mujhe Khwahish Hai Tere Pairo Par Payal Sajane Ki,
+ `Mujhe Khwahish Hai Teri Aankho Me Kajal Lagane Ki
+  Mujhe Khwahish Hai Tere Pairo Par Payal Sajane Ki,
 
-//   Tere Haatho Me Kangan Pehnane Ki
-//   Tere Maathe Pr Bindi Lgane Ki
-//   Tujhe Sara Shringaar kara Kr Aaina Dikhane Ki,
+  Tere Haatho Me Kangan Pehnane Ki
+  Tere Maathe Pr Bindi Lgane Ki
+  Tujhe Sara Shringaar kara Kr Aaina Dikhane Ki,
 
-//   Khubsurat To Be-Intehaa Hai Tu
-//   Mujhe Bas Khwahish Hai Teri Khubsurati Badhane Ki,
+  Khubsurat To Be-Intehaa Hai Tu
+  Mujhe Bas Khwahish Hai Teri Khubsurati Badhane Ki,
 
-//   Mohobbat Karta Hu Thodi Purani
-//   Is Genz Jamane Me Khwahish Hai Tujhe Apna Saathi Bnane Ki.. :)`,
+  Mohobbat Karta Hu Thodi Purani
+  Is Genz Jamane Me Khwahish Hai Tujhe Apna Saathi Bnane Ki.. :)`,
 
 
 
-//  `Chaand Sitare Phool Parinde Shaam Sawera Ek Taraf
-//   Saari Duniya Uska Charba Uska Chehra Ek Taraf,
+ `Chaand Sitare Phool Parinde Shaam Sawera Ek Taraf
+  Saari Duniya Uska Charba Uska Chehra Ek Taraf,
   
-//   Vo Lad Kar So Bhi Jaye To Uska Maatha Chumu Me
-//   Usse Mohobbat Ek Taraf Hai Usse Jhagda Ek Taraf,
+  Vo Lad Kar So Bhi Jaye To Uska Maatha Chumu Me
+  Usse Mohobbat Ek Taraf Hai Usse Jhagda Ek Taraf,
 
-//   Jis Shay Par Vo Ungali Rakh De Usko Vo Dilwani Hai
-//   Uski khushiya Sab Se Awwal Sasta Mehnga Ek Taraf,
+  Jis Shay Par Vo Ungali Rakh De Usko Vo Dilwani Hai
+  Uski khushiya Sab Se Awwal Sasta Mehnga Ek Taraf,
 
-//   Saari Duniya Jo bhi Bole Sab Kuch Shor Sharaba Hai
-//   Sab Ka Kehna Ek Taraf Hai Uska Kehna Ek Taraf,
+  Saari Duniya Jo bhi Bole Sab Kuch Shor Sharaba Hai
+  Sab Ka Kehna Ek Taraf Hai Uska Kehna Ek Taraf,
 
-//   Jakhmo Par Marham Lagvao Lekin Uske Haathon Se
-//   Chaara-Saaji Ek Taraf Hai Uska Chhuna Ek Taraf,
+  Jakhmo Par Marham Lagvao Lekin Uske Haathon Se
+  Chaara-Saaji Ek Taraf Hai Uska Chhuna Ek Taraf,
 
-//   Usne Saari Duniya Maangi Mene Usko Maanga Hai
-//   Uske Sapne Ek Taraf Hai Mera Sapna Ek Taraf.. :)`
+  Usne Saari Duniya Maangi Mene Usko Maanga Hai
+  Uske Sapne Ek Taraf Hai Mera Sapna Ek Taraf.. :)`
 
 
 //  `Hey!
