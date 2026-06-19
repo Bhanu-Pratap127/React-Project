@@ -444,7 +444,7 @@ const ShayariPage = () => {
   let interval;
 
   const timeout = setTimeout(() => {
-    const speed = text.length > 500 ? 15 : 25;
+    const speed = text.length > 500 ? 40 :60;
 
     interval = setInterval(() => {
       setDisplayedText(text.slice(0, index));
