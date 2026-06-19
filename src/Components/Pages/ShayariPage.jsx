@@ -25,13 +25,13 @@ const ShayariData = [
       Baandh Aaya Hu Ped Par Dhaaga Tere Naam Ka
       Me Ab Mandir Me Maatha Bhi Tek Aaya Hu
       
-      Mere Kar Liye Hai Har Jatan Tujhe Paaane Ke
+      Mene Kar Liye Hai Har Jatan Tujhe Paaane Ke
       Me Mazaar Par Chdha Kar Chaadar Ek Aaya Hu
       
       Mene Tute Taaro Se Maanga Hai Tujhko
       Me Ek Sikka Bhi Kue Mai Fek Aaya Hu
       
-      Bau Ek Baar Tu Mujhko Ho Jaye Haasil
+      Bas Ek Baar Tu Mujhko Ho Jaye Haasil
       Tere Liye Me Chuda Or Kangan Dono Lekar Aaya hu.. :)`,
 
       
@@ -105,7 +105,7 @@ const ShayariData = [
       Tum Ho Vaha, Tum Ho Vahi
       
       Kese Batau Me Tumhe
-      Tum Bin Me T Kuch Bhi Nahi.. :)`,
+      Tum Bin Me To Kuch Bhi Nahi.. :)`,
 
 
      
@@ -165,7 +165,7 @@ const ShayariData = [
   Kya Karu Ki Bas Tere Saath Jeena Tha
   Ab Tere Bagair Na Maru To Kya Aur Karu,
   
-  KyaKkaru Ki Tu Bhi Kab Sunta Hai Meri
+  Kya karu Ki Tu Bhi Kab Sunta Hai Meri
   Tujhse Shikayat Na Karu To Aur Kya Karu,
   
   Kya Karu Ki Tu Bhi Itna Pyaara Hai
@@ -268,7 +268,7 @@ const ShayariData = [
 
    koyle'n Bhi To Chahti Hai Sunna Tujhe
    Khil Uthe Phool Sare Tu Jb Jb Hase
-   Jaha'n Nazrein re Vaha'n Barish Pade,
+   Jaha'n Nazrein Jaye Vaha'n Barish Pade,
 
    Titliya Tere Haatho Ki Kathputliyaa
    Mor Nache Bajaye Tu Jab Taliyaa,
@@ -281,7 +281,7 @@ const ShayariData = [
   `Teri Aankhe Jese Mausam Hai
    Kudrat Sa Tera Chehra Hai,
 
-   Laakh Dilo Se Ho Krke Ye Dil Tujhpe Hi Thehra Hai,
+   Laakh Dilo Se Hokar Ye Dil Tujhpe Hi Thehra Hai,
 
    Jb Tu Dekhkr Mujhko Dheere Se Muskura Deti Hai
    Meri Nazre Teri Nazron Ko Haule Se Smjha Deti Hai,
@@ -296,39 +296,39 @@ const ShayariData = [
    72 Hoorein Feeki Tumhara Noor Zyada Lage,
 
    Aur Mat Pucha Karo Ki Kesi Lagti Ho Tum Hame
-   Meri Jaan Tum To Esi Lgti Ho Jese Swayam Kanha Ko Radha Lge.. :)`,
+   Meri Jaan Tum To Esi Lgti Ho Jese Swayam Shree Krishna Ko Radha Lge.. :)`,
 
    
   
 
- `Pehli Baar Jo Tujhse Ki Thi Vo Baat Yaad Hai,
-  Teri Yaad Me Guzari Vo Raat Yaad Hai..
+//  `Pehli Baar Jo Tujhse Ki Thi Vo Baat Yaad Hai,
+//   Teri Yaad Me Guzari Vo Raat Yaad Hai..
   
-  Yaad Hai Mujhe Teri Vo Jheel Si Aankhe,
-  Fool Se Bhi Khubsurat Tere Vo Haath Yaad Hai..
+//   Yaad Hai Mujhe Teri Vo Jheel Si Aankhe,
+//   Fool Se Bhi Khubsurat Tere Vo Haath Yaad Hai..
   
-  Yaad Hai Mujhe Vo Tera Baat Karte Karte So Jana,
-  Dur Hote Hue Bhi Ek Dusre Me Kho Jana..
+//   Yaad Hai Mujhe Vo Tera Baat Karte Karte So Jana,
+//   Dur Hote Hue Bhi Ek Dusre Me Kho Jana..
   
-  Yaad Hai Mujhe Aaj Bhi Vo Sb Tere Nakhre,
-  Mujhse Baat Na Ho To Tera Khana Na Khana..
+//   Yaad Hai Mujhe Aaj Bhi Vo Sb Tere Nakhre,
+//   Mujhse Baat Na Ho To Tera Khana Na Khana..
   
-  Kaise Kiya Tha Mene Tujhse Izhaar Yaad Hai,
-  Har Pal Kiya Jo Tera Vo Intezaar Yaad Hai..
+//   Kaise Kiya Tha Mene Tujhse Izhaar Yaad Hai,
+//   Har Pal Kiya Jo Tera Vo Intezaar Yaad Hai..
   
-  Ha Me Tujhe Bhul Gya Hu Shayad, Magar
-  Mujhe Aaj Bhi Hamara Vo Pyaar Yaad Hai.. :)`,
+//   Ha Me Tujhe Bhul Gya Hu Shayad, Magar
+//   Mujhe Aaj Bhi Hamara Vo Pyaar Yaad Hai.. :)`,
 
 
   
- `Log Bashte Hai Samandar Se Lekin
+ `Log Bachte Hai Samandar Se Lekin
   Hum Tumhari Aankon Me Dubne Ko Tyaar Hai,
 
   kisko Dekhne Ki Chahat Kre
   Tukmo Dekh Liya Hai To,
 
-  Tumhari Zulfon Ki Gehrai Hai Bohot Or
-  Hmko Pasand Nahi Aata Hai Kinara,
+  Tumhari Zulfon Ki Gehrai Hai Bohot 
+  Ab Hmko Pasand Nahi Aata Hai Kinara,
 
   Log Kehte Hai Chaand Ka Tukda Ho Tum
   Hum Kehte Hai Chaand Bhi Tukda Hai Tumhara.. :)`,
