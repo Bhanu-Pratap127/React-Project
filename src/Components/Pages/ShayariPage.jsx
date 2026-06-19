@@ -39,7 +39,7 @@ const ShayariData = [
      `Ibadat Karta Hu Tumhari 
       Tum Peer Hu
       
-      Raanja Bna Betha Hu Tumhara
+      Raanja Ban Betha Hu Tumhara
       Tum Heer Ho
       
       Pyasa Betha Hu Tumhare Liye
