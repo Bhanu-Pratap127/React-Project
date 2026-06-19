@@ -499,7 +499,7 @@ const ShayariPage = () => {
   className="
     relative
 
-    bg-gradient-to-br
+    bg-linear-to-br
     from-pink-50
     via-purple-50
     to-rose-50
