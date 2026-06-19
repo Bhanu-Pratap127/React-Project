@@ -469,159 +469,176 @@ const ShayariPage = () => {
     return <Navigate to="/shayari/1" replace />;
   }
 
-  return (
- <div
-  className="
-    min-h-screen
-    flex
-    flex-col
-    items-center
+ return (
+  <div
+    className="
+      min-h-screen
+      flex flex-col items-center
+      bg-gradient-to-br
+      from-purple-200
+      via-pink-100
+      to-rose-200
 
-    bg-linear-to-br
-    from-purple-200
-    via-pink-100
-    to-rose-200
+      px-3 sm:px-4 md:px-6
+      pt-6 sm:pt-10
+      pb-8
+    "
+  >
+    <div
+      className="
+        relative
 
-    px-3
-    sm:px-4
-    md:px-6
+        bg-gradient-to-br
+        from-pink-50
+        via-purple-50
+        to-rose-50
 
-    pt-6
-    sm:pt-10
+        backdrop-blur-lg
 
-    pb-8
-  "
->
+        rounded-2xl sm:rounded-3xl
 
-                  
+        shadow-xl sm:shadow-2xl
 
-     <div
-  className="
-    relative
+        border border-pink-200/40
 
-    bg-linear-to-br
-    from-pink-50
-    via-purple-50
-    to-rose-50
+        px-4 sm:px-6 md:px-10
+        py-8 sm:py-12 md:py-16
 
-    backdrop-blur-lg
+        w-full
+        max-w-xs
+        sm:max-w-lg
+        md:max-w-2xl
 
-    rounded-2xl
-    sm:rounded-3xl
+        min-h-[300px]
+        sm:min-h-[400px]
 
-    shadow-xl
-    sm:shadow-2xl
+        flex flex-col justify-start
 
-    border border-pink-200/40
+        overflow-hidden
 
-    px-4
-    sm:px-6
-    md:px-10
+        transition-all duration-500
+        hover:scale-[1.02]
+      "
+    >
+      <p
+        className="
+          text-base
+          sm:text-lg
+          md:text-2xl
 
-    py-8
-    sm:py-12
-    md:py-16
+          text-pink-800
+          italic
 
-    w-full
+          leading-8
+          sm:leading-9
+          md:leading-relaxed
 
-    max-w-xs
-    sm:max-w-lg
-    md:max-w-2xl
+          text-center
+          whitespace-pre-line
 
-    min-h-75
-    sm:min-h-100
+          tracking-normal
+          sm:tracking-wide
+        "
+      >
+        {displayedText}
+      </p>
 
-    flex flex-col justify-start
+      {typingDone && (
+        <div className="mt-6 sm:mt-8 flex justify-center gap-2 sm:gap-4 animate-fade-in">
+          <span className="text-pink-400 text-2xl sm:text-3xl animate-bounce">
+            ♥
+          </span>
 
-    overflow-hidden
+          <span className="text-pink-500 text-3xl sm:text-4xl animate-pulse">
+            ♥
+          </span>
 
-    transition-all duration-500
-    hover:scale-[1.02]
-  "
->
-<p
-  className="
-    text-base
-    sm:text-lg
-    md:text-2xl
+          <span className="text-pink-400 text-2xl sm:text-3xl animate-bounce delay-200">
+            ♥
+          </span>
+        </div>
+      )}
 
-    text-pink-800
-    italic
+      <div className="absolute top-3 right-4 sm:top-4 sm:right-6 flex gap-2">
+        <span className="text-pink-300 text-lg sm:text-xl animate-bounce">
+          ❤
+        </span>
 
-    leading-8
-    sm:leading-9
-    md:leading-relaxed
+        <span className="text-pink-200 text-base sm:text-lg animate-pulse">
+          ❤
+        </span>
+      </div>
+    </div>
 
-    text-center
-    whitespace-pre-line
+    <div
+      className="
+        mt-6
 
-    tracking-normal
-    sm:tracking-wide
-  "
->           {displayedText}
-           {/* {!typingDone && <span className="animate-pulse text-pink-500">|</span>} */}
-        </p>
+        flex
+        flex-col
+        sm:flex-row
 
-          {typingDone && (
-              <div className="mt-8 flex justify-center gap-4 animate-fade-in">
-                  <span className="text-pink-400 text-3xl animate-bounce">♥</span>
-                  <span className="text-pink-500 text-4xl animate-pulse">♥</span>
-                  <span className="text-pink-400 text-3xl animate-bounce delay-200">♥</span>
-              </div>
-          )}
+        justify-center
+        items-center
 
-          <div className="absolute top-4 right-6 flex gap-2">
-              <span className="text-pink-300 text-xl animate-bounce">❤</span>
-              <span className="text-pink-200 text-lg animate-pulse">❤</span>
-              </div>
-            </div>
+        gap-4
+        sm:gap-8
 
-        
-        
-<div
-  className="
-    mt-6
+        w-full
+        max-w-md
+      "
+    >
+      <button
+        onClick={() => navigate(`/shayari/${currentPage - 1}`)}
+        disabled={currentPage === 1}
+        className={`
+          w-full sm:w-auto
+          px-6 sm:px-8
+          py-3
 
-    flex
-    flex-col
-    sm:flex-row
+          rounded-full
+          text-sm sm:text-base
 
-    justify-center
-    items-center
+          border-2
+          transition-all duration-300
 
-    gap-4
-    sm:gap-8
+          ${
+            currentPage === 1
+              ? "bg-gray-300 text-gray-600 cursor-not-allowed border-gray-300"
+              : "bg-gray-400 hover:bg-gray-500 text-white border-gray-300"
+          }
+        `}
+      >
+        ← Previous
+      </button>
 
-    w-full
-    max-w-md
+      <button
+        onClick={() => navigate(`/shayari/${currentPage + 1}`)}
+        disabled={currentPage === TOTAL_PAGES}
+        className={`
+          w-full sm:w-auto
+          px-6 sm:px-8
+          py-3
 
-    transition-all duration-500
-  "
->              
-                <button
-                  onClick={() => navigate(`/shayari/${currentPage - 1}`)}
-                  disabled={currentPage === 1}
-                  className={`w-full sm:w-auto px-6 sm:px-8 py-3  text-sm sm:text-base rounded-full border-2 transition-all duration-300
-                    ${currentPage === 1
-                      ? 'bg-gray-300 text-gray-600 cursor-not-allowed border-gray-300'
-                      : 'bg-gray-400 hover:bg-gray-500 border-gray-300'}`}
-                >
-                  ← Previous
-                </button>
-              
-                <button
-                  onClick={() => navigate(`/shayari/${currentPage + 1}`)}
-                  disabled={currentPage === TOTAL_PAGES}
-                  className={`w-full sm:w-auto px-6 sm:px-8 py-3 text-sm sm:text-base rounded-full border-2 text-white transition-all duration-300
-                    ${currentPage === TOTAL_PAGES
-                      ? 'bg-pink-400 cursor-not-allowed border-pink-400'
-                      : 'bg-pink-500 hover:bg-pink-600 border-pink-400'}`}
-                >
-                  Next →
-                </button>
-              
-              </div>
-           </div>
+          rounded-full
+          text-sm sm:text-base
+
+          border-2
+          text-white
+
+          transition-all duration-300
+
+          ${
+            currentPage === TOTAL_PAGES
+              ? "bg-pink-400 cursor-not-allowed border-pink-400"
+              : "bg-pink-500 hover:bg-pink-600 border-pink-400"
+          }
+        `}
+      >
+        Next →
+      </button>
+    </div>
+  </div>
 );
 }
 
