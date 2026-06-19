@@ -426,6 +426,7 @@ const ShayariPage = () => {
   
   const [displayedText, setDisplayedText] = useState('');
   const [typingDone, setTypingDone] = useState(false);
+  const [fade, setFade] = useState(false);
 
      useEffect(() => {
   if (
@@ -434,6 +435,12 @@ const ShayariPage = () => {
     currentPage > TOTAL_PAGES
   )
     return;
+
+  setFade(false);
+
+  const fadeTimer = setTimeout(() => {
+    setFade(true);
+  }, 100);
 
   const text = ShayariData[currentPage - 1] ?? "";
   let index = 1;
@@ -444,7 +451,7 @@ const ShayariPage = () => {
   let interval;
 
   const timeout = setTimeout(() => {
-    const speed = text.length > 500 ? 100 :150;
+    const speed = 180;
 
     interval = setInterval(() => {
       setDisplayedText(text.slice(0, index));
@@ -459,6 +466,7 @@ const ShayariPage = () => {
 
   return () => {
     clearTimeout(timeout);
+    clearTimeout(fadeTimer);
     clearInterval(interval);
   };
 }, [currentPage, TOTAL_PAGES]);
